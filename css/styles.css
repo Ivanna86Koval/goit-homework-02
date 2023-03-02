@@ -45,15 +45,20 @@ body {
 /*======================Header===================*/
 /*======================Hero=====================*/
 .hero {
-  background: #2e2f42;
+  background: #7b7575;
 }
 .hero-title {
+  color: var(--white);
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
-  text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
+
+  width: 494px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 48px;
 }
 .modal-btn {
   font-weight: 500;
@@ -82,3 +87,23 @@ body {
 }
 
 /*======================Hero=====================*/
+.hero {
+}
+.container {
+}
+.hero-title {
+}
+.modal-btn {
+}
+.info {
+}
+.hero-list {
+}
+.hero-top-title {
+}
+.section-description {
+}
+.hero-main-title {
+}
+.title {
+}
