@@ -19,9 +19,21 @@ body {
 .header-link:focus {
   color: #2e2f42;
 }
+
 .contact-mail {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
+
 .contact-phone {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 .contact-phone,
 .contact-mail:hover,
