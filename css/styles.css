@@ -14,7 +14,7 @@ body {
   --main-title-color: #FFFFFF;
   --main-second-color:#2e2f42
   --main-btn-color: #4d5ae5;
-  --second-btn-color;
+  --second-btn-color: #4D5AE5;
 }
 /*======================Header===================*/
 
@@ -26,7 +26,7 @@ body {
 }
 .header-link:hover,
 .header-link:focus {
-  color: #4d5ae5;
+  color: var(---btn-color)
 }
 .logo-link {
   font-family: "Raleway", sans-serif;
@@ -134,11 +134,7 @@ body {
   text-transform: capitalize;
 }
 
-/*======================About=====================*/
-
-.about-item{
-
-}
+/*======================footer=====================*/
 
 .footer-text {
   font-family: "Roboto", sans-serif;
