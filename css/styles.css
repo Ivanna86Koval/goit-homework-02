@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   font-style: normal;
-  background: #e5e5e5;
+  background: var(--main-title-color);
 }
 
 .list {
@@ -73,7 +73,7 @@ body {
 }
 .header-link:hover,
 .header-link:focus {
-  color: var(main-btn-color)
+  color:  #4d5ae5
 }
 
 /*======================Hero=====================*/
@@ -94,6 +94,7 @@ body {
   margin-left: auto;
   margin-bottom: 48px;
 }
+
 .modal-btn {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -105,8 +106,8 @@ body {
 }
 .modal-btn:hover,
 .modal-btn:focus {
-  color: #4d5ae5;
-  background: #4d5ae5;
+  color: #4D5AE5;
+  background: #404BBF;
 }
 
 .hero-top-title {
