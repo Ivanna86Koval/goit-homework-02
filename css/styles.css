@@ -102,11 +102,11 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
-  color: #ffffff;
+  color: #4D5AE5;
 }
 .modal-btn:hover,
 .modal-btn:focus {
-  color: #4D5AE5;
+  color: #ffffff;
   background: #404BBF;
 }
 
@@ -134,10 +134,6 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-}
-
-.media-list{
-  
 }
 
 /*======================footer=====================*/
