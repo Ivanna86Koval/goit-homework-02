@@ -79,7 +79,8 @@ body {
 /*======================Hero=====================*/
 
 .hero {
-  background: #7b7575;
+  background: 
+#2E2F42;
 }
 .hero-title {
   color: var(--main-title-color);
@@ -137,7 +138,7 @@ body {
 }
 
 .media-list{
-  
+
 }
 
 /*======================footer=====================*/
