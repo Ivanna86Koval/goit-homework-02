@@ -156,18 +156,6 @@ color: #FFFFFF;
 }
 /*==================portfolio===============*/
 
-.media-list{
-
-}
-
-.visually{
-display: flex;
-flex-direction: row;
-align-items: flex-start;
-padding: 0px;
-gap: 24px;
-
-}
 .hero-media-img-title{
   font-family: 'Roboto', sans-serif;
 font-style: normal;
