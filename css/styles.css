@@ -156,6 +156,9 @@ color: #FFFFFF;
 }
 /*==================portfolio===============*/
 
+.row-cards{
+  background: #E5E5E5;
+}
 .portfolio-nav{
 display: flex;
 flex-direction: row;
