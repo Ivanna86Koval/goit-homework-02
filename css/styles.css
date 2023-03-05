@@ -41,8 +41,9 @@ body {
 }
 
 .contact-item{
-  
+  font-style: normal
 }
+
 .contact-mail {
   font-style: normal;
   font-weight: 400;
