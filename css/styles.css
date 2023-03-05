@@ -166,6 +166,21 @@ align-items: flex-start;
 padding: 0px;
 gap: 24px;
 }
+.portfolio-modal-btn{
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  color: #4d5ae5;
+}
+.portfolio-modal-btn:hover,
+.portfolio-modal-btn:focus {
+  color: #4D5AE5;
+  background: #F4F4FD;
+
+}
 
 .hero-media-img-title{
   font-family: 'Roboto', sans-serif;
