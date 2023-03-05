@@ -156,6 +156,16 @@ color: #FFFFFF;
 }
 /*==================portfolio===============*/
 
+.portfolio-nav{
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+}
+
+.row-cards{
+}
 .hero-media-img-title{
   font-family: 'Roboto', sans-serif;
 font-style: normal;
