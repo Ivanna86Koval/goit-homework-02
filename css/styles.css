@@ -105,7 +105,7 @@ color: var(--main-title-color)
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
-  color: #4D5AE5;
+  color: var(--main-title-color);
 }
 .modal-btn:hover,
 .modal-btn:focus {
@@ -165,7 +165,6 @@ flex-direction: row;
 align-items: flex-start;
 padding: 0px;
 gap: 24px;
-overflow: hidden;
 }
 
 .hero-media-img-title{
