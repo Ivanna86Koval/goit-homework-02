@@ -151,13 +151,7 @@ color: var(--main-title-color)
 .row-cards{
   background: #E5E5E5;
 }
-.portfolio-nav{
-display: flex;
-flex-direction: row;
-align-items: flex-start;
-padding: 0px;
-gap: 24px;
-}
+
 .portfolio-modal-btn{
   font-family: "Roboto", sans-serif;
   font-weight: 500;
