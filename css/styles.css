@@ -107,8 +107,11 @@ border-radius: 4px;
   background: #F4F4FD;
 }
 
+.about-team{
+  background: #F4F4FD;
+}
 .about-item{
-  background: #FFFFFF;
+ 
 }
 
 .hero-second-title {
@@ -162,7 +165,7 @@ border-radius: 4px;
 }
 .portfolio-modal-btn:hover,
 .portfolio-modal-btn:focus {
-  color: #4D5AE5;
+  color: #4D5AE5, #FFFFFF;
   background: #404BBF;
 }
 
