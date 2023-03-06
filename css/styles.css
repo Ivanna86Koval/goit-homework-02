@@ -2,7 +2,6 @@ body {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   color:  #434455;
-  background: var(--main-title-color);
 }
 
 .list {
@@ -25,11 +24,11 @@ body {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
 }
 
 .logo-web {
   color: #4d5ae5;
+  text-transform: uppercase;
 }
 
 .logo-studio {
@@ -80,8 +79,6 @@ font-style: normal;
   background:#2E2F42;
 }
 .hero-top-title {
-  font-family: 'Roboto', sans-serif;
-font-style: normal;
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
@@ -98,11 +95,22 @@ color: var(--main-title-color)
   letter-spacing: 0.04em;
   cursor: pointer;
   color: var(--main-title-color);
+  background: #4D5AE5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
 }
 .modal-btn:hover,
 .modal-btn:focus {
   color: #ffffff;
   background: #404BBF;
+}
+
+.about-list{
+  background: #F4F4FD;
+}
+
+.about-item{
+  background: #FFFFFF;
 }
 
 .hero-second-title {
@@ -113,16 +121,12 @@ color: var(--main-title-color)
   color: #2e2f42;
 }
 .section-description {
-  font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 .hero-main-title {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -135,22 +139,17 @@ color: var(--main-title-color)
 /*======================footer=====================*/
 
 .footer-text {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.17;
-  letter-spacing: 0.02em;
-  color: #e7e9fc;
+ font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #E7E9FC;
 }
+
 .footer {
   background-color: #2e2f42;
 }
 /*==================portfolio===============*/
-
-.row-cards{
-  background: #E5E5E5;
-}
 
 .portfolio-modal-btn{
   font-family: "Roboto", sans-serif;
@@ -159,18 +158,18 @@ color: var(--main-title-color)
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
-  color: #4d5ae5;
+  color: #4d5ae5; 
+  background: #F4F4FD;
+  border: 1px solid #E7E9FC;
+border-radius: 4px;
 }
 .portfolio-modal-btn:hover,
 .portfolio-modal-btn:focus {
   color: #4D5AE5;
-  background: #F4F4FD;
-
+  background: #404BBF;
 }
 
 .hero-media-img-title{
-  font-family: 'Roboto', sans-serif;
-font-style: normal;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -179,8 +178,6 @@ color: #2E2F42;
 }
 
 .section-img-description{
-font-family: 'Roboto', sans-serif;
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
