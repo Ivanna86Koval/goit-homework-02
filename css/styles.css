@@ -44,7 +44,7 @@ body {
   font-style: normal
 }
 
-.contact-mail {
+.contact {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -53,22 +53,11 @@ body {
   color: #434455;
 }
 
-.contact-phone {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.contact-mail:hover,
-.contact-mail:focus {
+.contact:hover,
+.contact:focus {
   color: #404BBF;
 }
-.contact-phone:focus,
-.contact-phone:hover {
-  color: #404BBF;
-}
+
 .address{
 font-style: normal;
 }
